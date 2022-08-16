@@ -11,7 +11,7 @@ document.getElementById('btn-submit').addEventListener('click',function(){
     const password = passwordField.value;
     
     //password verify
-    if(email === 'sontan@baap.com' && password === 'secret'){
+    if(email === 'sontan@gmail.com' && password === 'secret'){
         window.location.href = 'bank.html';
     }
     else{  
